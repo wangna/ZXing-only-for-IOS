@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A3E1326E-1B24-4CE8-941E-0A21E0274747</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ZXingWidget</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EE60E93A-E037-4960-8A91-CE1786C00B87</key>
+		<string>svn://172.16.1.70/im/01%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF/04%E5%AE%9E%E7%8E%B0/SMPromise_iPhone</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>zxing/iphone/ZXingWidget/ZXingWidget.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EE60E93A-E037-4960-8A91-CE1786C00B87</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>EE60E93A-E037-4960-8A91-CE1786C00B87</key>
+		<string>svn://172.16.1.70/im</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://172.16.1.70/im/01%E5%8D%B3%E6%97%B6%E9%80%9A%E8%AE%AF/04%E5%AE%9E%E7%8E%B0/SMPromise_iPhone/zxing/iphone/ZXingWidget/ZXingWidget.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EE60E93A-E037-4960-8A91-CE1786C00B87</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EE60E93A-E037-4960-8A91-CE1786C00B87</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SMPromise_iPhone</string>
+		</dict>
+	</array>
+</dict>
+</plist>
